@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/xmmwRFT/img-1.jpg",
+        "title": "The Great Adventure",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/m9dqGrW/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+        "posted_date": "2024-03-14",
+        "reading_time": 30,
+        "hashtags": [
+            "adventure",
+            "fiction",
+            "exploration"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/D42Fgyq/img-2.jpg",
+        "title": "Cooking Mastery",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/m9dqGrW/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+        "posted_date": "2024-03-13",
+        "reading_time": 45,
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/xmmwRFT/img-1.jpg",
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "author_img": "https://i.ibb.co/m9dqGrW/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 25,
+        "hashtags": [
+            "habits",
+            "self-improvement",
+            "psychology"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/D42Fgyq/img-2.jpg",
+        "title": "Data Science Essentials",
+        "author": "Emily Brown",
+        "author_img": "https://i.ibb.co/m9dqGrW/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 60,
+        "hashtags": [
+            "data science",
+            "analytics",
+            "machine learning"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/D42Fgyq/img-2.jpg",
+        "title": "Mindfulness Meditation",
+        "author": "David Williams",
+        "author_img": "https://i.ibb.co/m9dqGrW/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 20,
+        "hashtags": [
+            "mindfulness",
+            "meditation",
+            "wellness"
+        ]
+    }
+]
